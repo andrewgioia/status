@@ -24,7 +24,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Service Status
   introTitle: "Status page and uptime monitor for our self-hosted services"
-  introMessage: Monitor the status and uptime of our self-hosted services, powered by [Upptime](https://github.com/upptime/upptime)!
+  introMessage: "Monitor the status and uptime of our self-hosted services, powered by [Upptime](https://github.com/upptime/upptime)!"
   navbar:
     - title: Status
       href: /
