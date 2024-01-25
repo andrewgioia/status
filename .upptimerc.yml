@@ -10,7 +10,7 @@ sites:
   - name: Gioia Photos
     url: https://gioia.photos
   - name: Gioia Chat
-    url: https://gioia.chat
+    url: https://element.gioia.chat
   - name: Gioia News
     url: https://gioia.news
   - name: Gioia Git
