@@ -4,7 +4,7 @@ repo: status # The name of this repository
 
 sites:
   - name: Gioia Cloud
-    url: https://gioia.cloud
+    url: https://gioia.cloud/ocs/v2.php/apps/serverinfo/api/v1/info
   - name: Gioia Social
     url: https://gioia.social
   - name: Gioia Photos
