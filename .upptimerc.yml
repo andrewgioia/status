@@ -13,6 +13,7 @@ sites:
     url: https://element.gioia.chat
   - name: Gioia News
     url: https://gioia.news
+    icon: https://raw.githubusercontent.com/LemmyNet/lemmy-ui/main/src/assets/icons/icon-96x96.png
   - name: Gioia Git
     url: https://git.gioia.cloud/
 
