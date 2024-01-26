@@ -6,7 +6,7 @@ sites:
   - name: Gioia Cloud
     url: https://gioia.cloud
   - name: Gioia Social
-    url: https://gioia.social
+    url: https://gioia.social/api/v2/instance
   - name: Gioia Photos
     url: https://gioia.photos
   - name: Gioia Chat
