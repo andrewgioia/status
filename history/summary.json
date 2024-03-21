@@ -76,7 +76,7 @@
     "url": "https://gioia.news",
     "icon": "https://raw.githubusercontent.com/LemmyNet/lemmy-ui/main/src/assets/icons/icon-96x96.png",
     "slug": "gioia-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
@@ -88,6 +88,7 @@
     "timeMonth": 963,
     "timeYear": 720,
     "dailyMinutesDown": {
+      "2024-03-21": 0,
       "2024-03-18": 16,
       "2024-03-03": 17,
       "2024-03-01": 17
