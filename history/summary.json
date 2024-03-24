@@ -4,19 +4,19 @@
     "url": "https://gioia.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/gioia.cloud.ico",
     "slug": "gioia-cloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 601,
-    "timeDay": 451,
-    "timeWeek": 439,
-    "timeMonth": 625,
-    "timeYear": 601,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 600,
+    "timeDay": 499,
+    "timeWeek": 451,
+    "timeMonth": 623,
+    "timeYear": 600,
     "dailyMinutesDown": {
-      "2024-03-24": 0
+      "2024-03-24": 16
     }
   },
   {
