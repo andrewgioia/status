@@ -81,12 +81,12 @@
     "status": "up",
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.90%",
+    "uptimeWeek": "99.10%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.67%",
     "time": 674,
     "timeDay": 768,
-    "timeWeek": 575,
+    "timeWeek": 602,
     "timeMonth": 480,
     "timeYear": 674,
     "dailyMinutesDown": {
@@ -126,11 +126,11 @@
     "url": "https://git.gioia.cloud/",
     "icon": "https://icons.duckduckgo.com/ip3/git.gioia.cloud.ico",
     "slug": "gioia-git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 275,
     "timeDay": 212,
@@ -138,7 +138,7 @@
     "timeMonth": 280,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2024-07-02": 8,
+      "2024-07-02": 0,
       "2024-07-01": 18
     }
   }
