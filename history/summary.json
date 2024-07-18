@@ -130,7 +130,7 @@
     "url": "https://git.gioia.cloud/",
     "icon": "https://icons.duckduckgo.com/ip3/git.gioia.cloud.ico",
     "slug": "gioia-git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "96.72%",
     "uptimeWeek": "99.53%",
@@ -142,6 +142,7 @@
     "timeMonth": 313,
     "timeYear": 286,
     "dailyMinutesDown": {
+      "2024-07-18": 0,
       "2024-07-17": 47,
       "2024-07-10": 71,
       "2024-07-09": 17,
