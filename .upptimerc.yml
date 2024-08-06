@@ -16,6 +16,9 @@ sites:
     icon: https://raw.githubusercontent.com/LemmyNet/lemmy-ui/main/src/assets/icons/icon-96x96.png
   - name: Gioia Git
     url: https://git.gioia.cloud/
+    expectedStatusCodes:
+      - 200
+      - 0
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
