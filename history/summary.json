@@ -4,19 +4,19 @@
     "url": "https://gioia.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/gioia.cloud.ico",
     "slug": "gioia-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.71%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
-    "time": 640,
-    "timeDay": 3935,
-    "timeWeek": 1884,
-    "timeMonth": 951,
-    "timeYear": 640,
+    "time": 639,
+    "timeDay": 3248,
+    "timeWeek": 1758,
+    "timeMonth": 938,
+    "timeYear": 639,
     "dailyMinutesDown": {
-      "2024-08-24": 34,
+      "2024-08-24": 40,
       "2024-03-24": 16
     }
   },
@@ -45,9 +45,9 @@
     "url": "https://gioia.photos",
     "icon": "https://icons.duckduckgo.com/ip3/gioia.photos.ico",
     "slug": "gioia-photos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,7 +56,9 @@
     "timeWeek": 526,
     "timeMonth": 493,
     "timeYear": 445,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-24": 0
+    }
   },
   {
     "name": "Gioia Chat",
