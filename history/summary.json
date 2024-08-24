@@ -6,9 +6,9 @@
     "slug": "gioia-cloud",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 640,
     "timeDay": 3935,
@@ -16,7 +16,7 @@
     "timeMonth": 951,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2024-08-24": 30,
+      "2024-08-24": 22,
       "2024-03-24": 16
     }
   },
@@ -25,10 +25,10 @@
     "url": "https://gioia.social/api/v2/instance",
     "icon": "https://icons.duckduckgo.com/ip3/gioia.social.ico",
     "slug": "gioia-social",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 446,
@@ -36,7 +36,9 @@
     "timeWeek": 1831,
     "timeMonth": 845,
     "timeYear": 446,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-24": 1
+    }
   },
   {
     "name": "Gioia Photos",
