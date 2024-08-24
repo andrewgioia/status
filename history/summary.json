@@ -45,11 +45,11 @@
     "url": "https://gioia.photos",
     "icon": "https://icons.duckduckgo.com/ip3/gioia.photos.ico",
     "slug": "gioia-photos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.32%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 478,
     "timeDay": 1935,
@@ -57,7 +57,7 @@
     "timeMonth": 700,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2024-08-24": 25
+      "2024-08-24": 18
     }
   },
   {
@@ -83,10 +83,10 @@
     "url": "https://gioia.news",
     "icon": "https://raw.githubusercontent.com/LemmyNet/lemmy-ui/main/src/assets/icons/icon-96x96.png",
     "slug": "gioia-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.38%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.37%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.58%",
     "time": 827,
@@ -95,6 +95,7 @@
     "timeMonth": 1268,
     "timeYear": 827,
     "dailyMinutesDown": {
+      "2024-08-24": 0,
       "2024-08-21": 41,
       "2024-08-19": 22,
       "2024-08-17": 31,
