@@ -4,10 +4,10 @@
     "url": "https://gioia.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/gioia.cloud.ico",
     "slug": "gioia-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.23%",
-    "uptimeWeek": "99.60%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "99.59%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 677,
@@ -16,7 +16,7 @@
     "timeMonth": 1167,
     "timeYear": 677,
     "dailyMinutesDown": {
-      "2024-08-24": 40,
+      "2024-08-24": 42,
       "2024-03-24": 16
     }
   },
@@ -25,10 +25,10 @@
     "url": "https://gioia.social/api/v2/instance",
     "icon": "https://icons.duckduckgo.com/ip3/gioia.social.ico",
     "slug": "gioia-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.20%",
-    "uptimeWeek": "99.60%",
+    "uptimeDay": "97.12%",
+    "uptimeWeek": "99.59%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 485,
@@ -37,7 +37,7 @@
     "timeMonth": 1065,
     "timeYear": 485,
     "dailyMinutesDown": {
-      "2024-08-24": 40
+      "2024-08-24": 41
     }
   },
   {
@@ -47,9 +47,9 @@
     "slug": "gioia-photos",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 477,
     "timeDay": 1655,
@@ -57,7 +57,7 @@
     "timeMonth": 688,
     "timeYear": 477,
     "dailyMinutesDown": {
-      "2024-08-24": 30
+      "2024-08-24": 17
     }
   },
   {
@@ -84,18 +84,17 @@
     "icon": "https://raw.githubusercontent.com/LemmyNet/lemmy-ui/main/src/assets/icons/icon-96x96.png",
     "slug": "gioia-news",
     "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.57%",
+    "uptime": "99.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.58%",
     "time": 838,
     "timeDay": 3788,
     "timeWeek": 3220,
     "timeMonth": 1323,
     "timeYear": 838,
     "dailyMinutesDown": {
-      "2024-08-24": 12,
       "2024-08-21": 41,
       "2024-08-19": 22,
       "2024-08-17": 31,
