@@ -26,10 +26,10 @@
     "url": "https://gioia.social/api/v2/instance",
     "icon": "https://icons.duckduckgo.com/ip3/gioia.social.ico",
     "slug": "gioia-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "85.82%",
-    "uptimeWeek": "97.97%",
+    "uptimeDay": "85.66%",
+    "uptimeWeek": "97.95%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.93%",
     "time": 640,
@@ -38,7 +38,7 @@
     "timeMonth": 1652,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2024-08-25": 165,
+      "2024-08-25": 167,
       "2024-08-24": 40
     }
   },
@@ -47,10 +47,10 @@
     "url": "https://gioia.photos",
     "icon": "https://icons.duckduckgo.com/ip3/gioia.photos.ico",
     "slug": "gioia-photos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "93.95%",
-    "uptimeWeek": "99.14%",
+    "uptimeDay": "93.84%",
+    "uptimeWeek": "99.12%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.97%",
     "time": 651,
@@ -59,7 +59,7 @@
     "timeMonth": 1524,
     "timeYear": 651,
     "dailyMinutesDown": {
-      "2024-08-25": 71,
+      "2024-08-25": 73,
       "2024-08-24": 17
     }
   },
@@ -68,11 +68,11 @@
     "url": "https://element.gioia.chat",
     "icon": "https://icons.duckduckgo.com/ip3/element.gioia.chat.ico",
     "slug": "gioia-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "86.94%",
-    "uptimeWeek": "98.13%",
-    "uptimeMonth": "99.57%",
+    "uptimeDay": "87.40%",
+    "uptimeWeek": "98.20%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.94%",
     "time": 957,
     "timeDay": 4267,
@@ -80,7 +80,7 @@
     "timeMonth": 2122,
     "timeYear": 957,
     "dailyMinutesDown": {
-      "2024-08-25": 188
+      "2024-08-25": 181
     }
   },
   {
@@ -88,9 +88,9 @@
     "url": "https://gioia.news",
     "icon": "https://raw.githubusercontent.com/LemmyNet/lemmy-ui/main/src/assets/icons/icon-96x96.png",
     "slug": "gioia-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "77.97%",
+    "uptimeDay": "77.96%",
     "uptimeWeek": "96.23%",
     "uptimeMonth": "98.64%",
     "uptimeYear": "99.48%",
