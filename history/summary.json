@@ -6,9 +6,9 @@
     "slug": "gioia-cloud",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "90.53%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "89.57%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.95%",
     "time": 819,
     "timeDay": 3339,
@@ -16,7 +16,7 @@
     "timeMonth": 1699,
     "timeYear": 819,
     "dailyMinutesDown": {
-      "2024-08-25": 55,
+      "2024-08-25": 69,
       "2024-08-24": 81,
       "2024-03-24": 16
     }
@@ -68,9 +68,9 @@
     "url": "https://element.gioia.chat",
     "icon": "https://icons.duckduckgo.com/ip3/element.gioia.chat.ico",
     "slug": "gioia-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "87.46%",
+    "uptimeDay": "87.45%",
     "uptimeWeek": "98.21%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.94%",
