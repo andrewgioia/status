@@ -4,19 +4,19 @@
     "url": "https://gioia.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/gioia.cloud.ico",
     "slug": "gioia-cloud",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "93.54%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "94.20%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.97%",
     "time": 733,
     "timeDay": 4125,
     "timeWeek": 2777,
     "timeMonth": 1445,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2024-08-25": 12,
+      "2024-08-25": 2,
       "2024-08-24": 81,
       "2024-03-24": 16
     }
@@ -26,10 +26,10 @@
     "url": "https://gioia.social/api/v2/instance",
     "icon": "https://icons.duckduckgo.com/ip3/gioia.social.ico",
     "slug": "gioia-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "91.60%",
-    "uptimeWeek": "98.80%",
+    "uptimeDay": "91.47%",
+    "uptimeWeek": "98.78%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.96%",
     "time": 540,
@@ -38,7 +38,7 @@
     "timeMonth": 1354,
     "timeYear": 540,
     "dailyMinutesDown": {
-      "2024-08-25": 81,
+      "2024-08-25": 83,
       "2024-08-24": 40
     }
   },
@@ -49,9 +49,9 @@
     "slug": "gioia-photos",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.06%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 555,
     "timeDay": 3570,
@@ -59,7 +59,6 @@
     "timeMonth": 1141,
     "timeYear": 555,
     "dailyMinutesDown": {
-      "2024-08-25": 11,
       "2024-08-24": 17
     }
   },
@@ -68,10 +67,10 @@
     "url": "https://element.gioia.chat",
     "icon": "https://icons.duckduckgo.com/ip3/element.gioia.chat.ico",
     "slug": "gioia-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.03%",
-    "uptimeWeek": "99.58%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 733,
@@ -80,7 +79,7 @@
     "timeMonth": 1191,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2024-08-25": 43
+      "2024-08-25": 44
     }
   },
   {
@@ -88,9 +87,9 @@
     "url": "https://gioia.news",
     "icon": "https://raw.githubusercontent.com/LemmyNet/lemmy-ui/main/src/assets/icons/icon-96x96.png",
     "slug": "gioia-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "91.47%",
+    "uptimeDay": "91.46%",
     "uptimeWeek": "98.16%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "99.54%",
