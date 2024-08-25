@@ -4,10 +4,10 @@
     "url": "https://gioia.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/gioia.cloud.ico",
     "slug": "gioia-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "90.56%",
-    "uptimeWeek": "98.65%",
+    "uptimeDay": "90.44%",
+    "uptimeWeek": "98.63%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.95%",
     "time": 783,
@@ -16,7 +16,7 @@
     "timeMonth": 1547,
     "timeYear": 783,
     "dailyMinutesDown": {
-      "2024-08-25": 55,
+      "2024-08-25": 57,
       "2024-08-24": 81,
       "2024-03-24": 16
     }
@@ -26,11 +26,11 @@
     "url": "https://gioia.social/api/v2/instance",
     "icon": "https://icons.duckduckgo.com/ip3/gioia.social.ico",
     "slug": "gioia-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "88.00%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "87.91%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.94%",
     "time": 623,
     "timeDay": 3654,
@@ -38,7 +38,7 @@
     "timeMonth": 1613,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-08-25": 133,
+      "2024-08-25": 134,
       "2024-08-24": 40
     }
   },
@@ -68,10 +68,10 @@
     "url": "https://element.gioia.chat",
     "icon": "https://icons.duckduckgo.com/ip3/element.gioia.chat.ico",
     "slug": "gioia-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "87.46%",
-    "uptimeWeek": "98.21%",
+    "uptimeDay": "87.42%",
+    "uptimeWeek": "98.20%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.94%",
     "time": 869,
@@ -80,7 +80,7 @@
     "timeMonth": 1756,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2024-08-25": 180
+      "2024-08-25": 181
     }
   },
   {
@@ -165,7 +165,7 @@
     "time": 430,
     "timeDay": 0,
     "timeWeek": 335,
-    "timeMonth": 711,
+    "timeMonth": 715,
     "timeYear": 430,
     "dailyMinutesDown": {
       "2024-08-06": 38,
