@@ -89,9 +89,9 @@
     "url": "https://gioia.news",
     "icon": "https://raw.githubusercontent.com/LemmyNet/lemmy-ui/main/src/assets/icons/icon-96x96.png",
     "slug": "gioia-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "84.22%",
+    "uptimeDay": "84.19%",
     "uptimeWeek": "94.80%",
     "uptimeMonth": "97.92%",
     "uptimeYear": "99.39%",
@@ -183,8 +183,7 @@
       "2024-08-31": 79,
       "2024-08-29": 74,
       "2024-08-28": 16,
-      "2024-08-26": 16,
-      "2024-08-25": 15
+      "2024-08-26": 16
     }
   },
   {
