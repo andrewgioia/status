@@ -91,17 +91,17 @@
     "slug": "gioia-news",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "12.00%",
-    "uptimeWeek": "64.22%",
-    "uptimeMonth": "88.67%",
+    "uptimeDay": "10.69%",
+    "uptimeWeek": "64.04%",
+    "uptimeMonth": "88.63%",
     "uptimeYear": "98.69%",
     "time": 993,
-    "timeDay": 702,
-    "timeWeek": 964,
-    "timeMonth": 826,
-    "timeYear": 1042,
+    "timeDay": 669,
+    "timeWeek": 944,
+    "timeMonth": 821,
+    "timeYear": 1041,
     "dailyMinutesDown": {
-      "2025-06-24": 238,
+      "2025-06-24": 257,
       "2025-06-23": 1075,
       "2025-06-22": 1345,
       "2025-06-21": 817,
@@ -158,8 +158,7 @@
       "2025-03-21": 18,
       "2025-03-20": 71,
       "2025-03-19": 16,
-      "2025-03-18": 16,
-      "2025-03-14": 37
+      "2025-03-18": 16
     }
   },
   {
