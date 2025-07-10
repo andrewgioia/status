@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 698,
-    "timeDay": 382,
-    "timeWeek": 1073,
-    "timeMonth": 773,
+    "time": 697,
+    "timeDay": 364,
+    "timeWeek": 995,
+    "timeMonth": 761,
     "timeYear": 747,
     "dailyMinutesDown": {
       "2025-04-09": 16,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 559,
-    "timeDay": 174,
-    "timeWeek": 1051,
-    "timeMonth": 582,
+    "timeDay": 260,
+    "timeWeek": 1055,
+    "timeMonth": 579,
     "timeYear": 644,
     "dailyMinutesDown": {
       "2024-08-25": 165,
@@ -55,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 636,
-    "timeDay": 329,
-    "timeWeek": 779,
-    "timeMonth": 547,
+    "timeDay": 389,
+    "timeWeek": 778,
+    "timeMonth": 555,
     "timeYear": 692,
     "dailyMinutesDown": {
       "2024-08-25": 105,
@@ -75,10 +75,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 840,
-    "timeDay": 339,
-    "timeWeek": 588,
-    "timeMonth": 796,
+    "time": 839,
+    "timeDay": 524,
+    "timeWeek": 521,
+    "timeMonth": 797,
     "timeYear": 923,
     "dailyMinutesDown": {
       "2024-08-25": 241
@@ -91,13 +91,13 @@
     "slug": "gioia-news",
     "status": "up",
     "uptime": "98.97%",
-    "uptimeDay": "86.83%",
+    "uptimeDay": "88.52%",
     "uptimeWeek": "94.34%",
     "uptimeMonth": "85.59%",
     "uptimeYear": "98.50%",
     "time": 981,
-    "timeDay": 573,
-    "timeWeek": 1256,
+    "timeDay": 606,
+    "timeWeek": 1258,
     "timeMonth": 895,
     "timeYear": 1044,
     "dailyMinutesDown": {
@@ -161,10 +161,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 391,
-    "timeDay": 184,
-    "timeWeek": 659,
-    "timeMonth": 373,
-    "timeYear": 430,
+    "timeDay": 361,
+    "timeWeek": 610,
+    "timeMonth": 370,
+    "timeYear": 431,
     "dailyMinutesDown": {
       "2024-08-06": 38,
       "2024-08-05": 122,
@@ -179,8 +179,7 @@
       "2024-07-22": 18,
       "2024-07-21": 67,
       "2024-07-18": 48,
-      "2024-07-17": 47,
-      "2024-07-10": 71
+      "2024-07-17": 47
     }
   }
 ]
