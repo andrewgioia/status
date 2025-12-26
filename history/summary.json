@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 375,
-    "timeWeek": 556,
-    "timeMonth": 611,
-    "timeYear": 597,
+    "time": 615,
+    "timeDay": 812,
+    "timeWeek": 619,
+    "timeMonth": 610,
+    "timeYear": 598,
     "dailyMinutesDown": {
       "2025-04-09": 16
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 528,
-    "timeDay": 173,
-    "timeWeek": 364,
-    "timeMonth": 485,
-    "timeYear": 516,
+    "timeDay": 777,
+    "timeWeek": 399,
+    "timeMonth": 483,
+    "timeYear": 517,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 591,
-    "timeDay": 368,
-    "timeWeek": 494,
+    "time": 592,
+    "timeDay": 979,
+    "timeWeek": 569,
     "timeMonth": 553,
-    "timeYear": 525,
+    "timeYear": 526,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 793,
-    "timeDay": 343,
-    "timeWeek": 663,
-    "timeMonth": 771,
-    "timeYear": 735,
+    "time": 794,
+    "timeDay": 1054,
+    "timeWeek": 734,
+    "timeMonth": 777,
+    "timeYear": 736,
     "dailyMinutesDown": {}
   },
   {
@@ -78,18 +78,19 @@
     "url": "https://gioia.news",
     "icon": "https://raw.githubusercontent.com/LemmyNet/lemmy-ui/main/src/assets/icons/icon-96x96.png",
     "slug": "gioia-news",
-    "status": "up",
-    "uptime": "77.03%",
-    "uptimeDay": "92.41%",
+    "status": "down",
+    "uptime": "77.04%",
+    "uptimeDay": "92.39%",
     "uptimeWeek": "97.92%",
-    "uptimeMonth": "37.00%",
-    "uptimeYear": "55.87%",
-    "time": 867,
-    "timeDay": 6613,
-    "timeWeek": 2500,
-    "timeMonth": 1333,
-    "timeYear": 873,
+    "uptimeMonth": "37.77%",
+    "uptimeYear": "55.88%",
+    "time": 868,
+    "timeDay": 3378,
+    "timeWeek": 2514,
+    "timeMonth": 1337,
+    "timeYear": 872,
     "dailyMinutesDown": {
+      "2025-12-26": 0,
       "2025-12-25": 109,
       "2025-12-23": 74,
       "2025-12-22": 26,
@@ -289,8 +290,7 @@
       "2025-05-28": 245,
       "2025-05-26": 56,
       "2025-05-24": 59,
-      "2025-05-23": 111,
-      "2025-05-22": 63
+      "2025-05-23": 111
     }
   },
   {
@@ -305,10 +305,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 180,
-    "timeWeek": 230,
-    "timeMonth": 336,
-    "timeYear": 331,
+    "timeDay": 386,
+    "timeWeek": 259,
+    "timeMonth": 333,
+    "timeYear": 330,
     "dailyMinutesDown": {}
   }
 ]
