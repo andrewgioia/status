@@ -78,16 +78,16 @@
     "url": "https://gioia.news",
     "icon": "https://raw.githubusercontent.com/LemmyNet/lemmy-ui/main/src/assets/icons/icon-96x96.png",
     "slug": "gioia-news",
-    "status": "up",
-    "uptime": "77.65%",
-    "uptimeDay": "81.41%",
-    "uptimeWeek": "93.88%",
-    "uptimeMonth": "94.17%",
-    "uptimeYear": "55.86%",
+    "status": "down",
+    "uptime": "77.73%",
+    "uptimeDay": "83.11%",
+    "uptimeWeek": "93.98%",
+    "uptimeMonth": "94.94%",
+    "uptimeYear": "56.00%",
     "time": 993,
-    "timeDay": 4190,
-    "timeWeek": 2416,
-    "timeMonth": 2061,
+    "timeDay": 4862,
+    "timeWeek": 2507,
+    "timeMonth": 2074,
     "timeYear": 1023,
     "dailyMinutesDown": {
       "2026-01-14": 243,
@@ -285,8 +285,7 @@
       "2025-06-25": 146,
       "2025-06-24": 1292,
       "2025-06-23": 1075,
-      "2025-06-22": 1345,
-      "2025-06-21": 516
+      "2025-06-22": 1103
     }
   },
   {
