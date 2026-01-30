@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 580,
-    "timeDay": 906,
-    "timeWeek": 616,
-    "timeMonth": 584,
-    "timeYear": 601,
+    "timeDay": 737,
+    "timeWeek": 659,
+    "timeMonth": 585,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2025-04-09": 16
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 501,
-    "timeDay": 576,
-    "timeWeek": 421,
-    "timeMonth": 469,
+    "time": 500,
+    "timeDay": 407,
+    "timeWeek": 450,
+    "timeMonth": 466,
     "timeYear": 521,
     "dailyMinutesDown": {}
   },
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 527,
-    "timeDay": 582,
-    "timeWeek": 620,
+    "timeDay": 456,
+    "timeWeek": 629,
     "timeMonth": 498,
-    "timeYear": 529,
+    "timeYear": 530,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 724,
-    "timeDay": 1097,
-    "timeWeek": 897,
-    "timeMonth": 790,
-    "timeYear": 747,
+    "time": 723,
+    "timeDay": 706,
+    "timeWeek": 932,
+    "timeMonth": 777,
+    "timeYear": 748,
     "dailyMinutesDown": {}
   },
   {
@@ -80,17 +80,16 @@
     "slug": "gioia-news",
     "status": "up",
     "uptime": "78.40%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "96.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "96.95%",
     "uptimeYear": "56.42%",
-    "time": 992,
-    "timeDay": 1159,
-    "timeWeek": 855,
-    "timeMonth": 2095,
+    "time": 991,
+    "timeDay": 944,
+    "timeWeek": 884,
+    "timeMonth": 2115,
     "timeYear": 1028,
     "dailyMinutesDown": {
-      "2026-01-29": 12,
       "2026-01-27": 35,
       "2026-01-20": 71,
       "2026-01-16": 26,
@@ -288,7 +287,7 @@
       "2025-06-27": 61,
       "2025-06-26": 64,
       "2025-06-25": 146,
-      "2025-06-24": 1014
+      "2025-06-24": 1035
     }
   },
   {
@@ -302,10 +301,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 464,
-    "timeWeek": 336,
-    "timeMonth": 328,
+    "time": 324,
+    "timeDay": 456,
+    "timeWeek": 373,
+    "timeMonth": 333,
     "timeYear": 334,
     "dailyMinutesDown": {}
   }
