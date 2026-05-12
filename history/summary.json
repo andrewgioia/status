@@ -12,9 +12,9 @@
     "uptimeYear": "99.99%",
     "time": 592,
     "timeDay": 344,
-    "timeWeek": 630,
-    "timeMonth": 530,
-    "timeYear": 592,
+    "timeWeek": 655,
+    "timeMonth": 532,
+    "timeYear": 593,
     "dailyMinutesDown": {
       "2026-03-18": 75
     }
@@ -32,9 +32,9 @@
     "uptimeYear": "100.00%",
     "time": 499,
     "timeDay": 177,
-    "timeWeek": 433,
-    "timeMonth": 407,
-    "timeYear": 503,
+    "timeWeek": 415,
+    "timeMonth": 417,
+    "timeYear": 504,
     "dailyMinutesDown": {}
   },
   {
@@ -50,8 +50,8 @@
     "uptimeYear": "100.00%",
     "time": 517,
     "timeDay": 918,
-    "timeWeek": 681,
-    "timeMonth": 499,
+    "timeWeek": 678,
+    "timeMonth": 502,
     "timeYear": 502,
     "dailyMinutesDown": {}
   },
@@ -68,9 +68,9 @@
     "uptimeYear": "100.00%",
     "time": 725,
     "timeDay": 336,
-    "timeWeek": 606,
-    "timeMonth": 630,
-    "timeYear": 714,
+    "timeWeek": 622,
+    "timeMonth": 622,
+    "timeYear": 715,
     "dailyMinutesDown": {}
   },
   {
@@ -78,16 +78,16 @@
     "url": "https://gioia.news",
     "icon": "https://raw.githubusercontent.com/LemmyNet/lemmy-ui/main/src/assets/icons/icon-96x96.png",
     "slug": "gioia-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "94.00%",
-    "uptimeMonth": "89.86%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "95.85%",
+    "uptimeMonth": "90.08%",
     "uptimeYear": "98.16%",
     "time": 1091,
     "timeDay": 1392,
-    "timeWeek": 3933,
-    "timeMonth": 1829,
+    "timeWeek": 4801,
+    "timeMonth": 1864,
     "timeYear": 1113,
     "dailyMinutesDown": {
       "2026-05-12": 4,
@@ -152,7 +152,7 @@
       "2026-01-15": 98,
       "2026-01-14": 270,
       "2026-01-13": 218,
-      "2026-01-12": 27
+      "2026-01-12": 1
     }
   },
   {
@@ -168,8 +168,8 @@
     "uptimeYear": "100.00%",
     "time": 333,
     "timeDay": 159,
-    "timeWeek": 320,
-    "timeMonth": 295,
+    "timeWeek": 325,
+    "timeMonth": 298,
     "timeYear": 319,
     "dailyMinutesDown": {}
   }
