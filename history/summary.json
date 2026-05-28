@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 594,
-    "timeDay": 372,
-    "timeWeek": 454,
-    "timeMonth": 552,
-    "timeYear": 594,
+    "timeDay": 343,
+    "timeWeek": 437,
+    "timeMonth": 540,
+    "timeYear": 593,
     "dailyMinutesDown": {
       "2026-03-18": 75
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 498,
-    "timeDay": 371,
-    "timeWeek": 281,
-    "timeMonth": 384,
+    "timeDay": 374,
+    "timeWeek": 293,
+    "timeMonth": 376,
     "timeYear": 499,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 513,
-    "timeDay": 280,
+    "timeDay": 314,
     "timeWeek": 350,
-    "timeMonth": 465,
+    "timeMonth": 462,
     "timeYear": 498,
     "dailyMinutesDown": {}
   },
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 722,
-    "timeDay": 339,
+    "time": 721,
+    "timeDay": 395,
     "timeWeek": 450,
-    "timeMonth": 570,
-    "timeYear": 709,
+    "timeMonth": 553,
+    "timeYear": 708,
     "dailyMinutesDown": {}
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://gioia.news",
     "icon": "https://raw.githubusercontent.com/LemmyNet/lemmy-ui/main/src/assets/icons/icon-96x96.png",
     "slug": "gioia-news",
-    "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.87%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "97.86%",
     "uptimeMonth": "94.18%",
-    "uptimeYear": "98.13%",
+    "uptimeYear": "98.14%",
     "time": 1107,
     "timeDay": 521,
     "timeWeek": 513,
-    "timeMonth": 1840,
-    "timeYear": 1022,
+    "timeMonth": 1862,
+    "timeYear": 1023,
     "dailyMinutesDown": {
-      "2026-01-13": 118,
+      "2026-01-13": 25,
       "2026-01-14": 270,
       "2026-01-15": 98,
       "2026-01-16": 26,
@@ -153,7 +153,8 @@
       "2026-05-12": 4,
       "2026-05-11": 19,
       "2026-05-14": 75,
-      "2026-05-21": 215
+      "2026-05-21": 215,
+      "2026-05-28": 0
     }
   },
   {
@@ -169,8 +170,8 @@
     "uptimeYear": "100.00%",
     "time": 332,
     "timeDay": 171,
-    "timeWeek": 214,
-    "timeMonth": 284,
+    "timeWeek": 208,
+    "timeMonth": 275,
     "timeYear": 319,
     "dailyMinutesDown": {}
   }
