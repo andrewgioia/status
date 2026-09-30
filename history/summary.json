@@ -14,7 +14,7 @@
     "timeDay": 524,
     "timeWeek": 464,
     "timeMonth": 562,
-    "timeYear": 588,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2026-03-18": 75
     }
@@ -78,20 +78,19 @@
     "url": "https://gioia.news",
     "icon": "https://raw.githubusercontent.com/LemmyNet/lemmy-ui/main/src/assets/icons/icon-96x96.png",
     "slug": "gioia-news",
-    "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "89.59%",
-    "uptimeWeek": "91.45%",
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "91.05%",
+    "uptimeWeek": "91.44%",
     "uptimeMonth": "94.58%",
-    "uptimeYear": "97.73%",
+    "uptimeYear": "97.76%",
     "time": 1443,
     "timeDay": 11283,
     "timeWeek": 1798,
     "timeMonth": 2535,
-    "timeYear": 1628,
+    "timeYear": 1631,
     "dailyMinutesDown": {
-      "2026-03-22": 191,
-      "2026-03-21": 2,
+      "2026-03-22": 67,
       "2026-03-23": 194,
       "2026-03-25": 167,
       "2026-03-26": 110,
@@ -162,7 +161,8 @@
       "2026-09-20": 166,
       "2026-09-25": 460,
       "2026-09-26": 252,
-      "2026-09-29": 150
+      "2026-09-29": 150,
+      "2026-09-30": 0
     }
   },
   {
