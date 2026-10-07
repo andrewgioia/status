@@ -12,8 +12,8 @@
     "uptimeYear": "99.92%",
     "time": 591,
     "timeDay": 471,
-    "timeWeek": 521,
-    "timeMonth": 548,
+    "timeWeek": 549,
+    "timeMonth": 553,
     "timeYear": 585,
     "dailyMinutesDown": {
       "2026-03-18": 75,
@@ -33,8 +33,8 @@
     "uptimeYear": "100.00%",
     "time": 478,
     "timeDay": 407,
-    "timeWeek": 465,
-    "timeMonth": 419,
+    "timeWeek": 461,
+    "timeMonth": 421,
     "timeYear": 446,
     "dailyMinutesDown": {}
   },
@@ -51,8 +51,8 @@
     "uptimeYear": "100.00%",
     "time": 487,
     "timeDay": 259,
-    "timeWeek": 342,
-    "timeMonth": 404,
+    "timeWeek": 373,
+    "timeMonth": 403,
     "timeYear": 483,
     "dailyMinutesDown": {}
   },
@@ -69,8 +69,8 @@
     "uptimeYear": "100.00%",
     "time": 691,
     "timeDay": 663,
-    "timeWeek": 568,
-    "timeMonth": 549,
+    "timeWeek": 580,
+    "timeMonth": 557,
     "timeYear": 684,
     "dailyMinutesDown": {}
   },
@@ -79,19 +79,18 @@
     "url": "https://gioia.news",
     "icon": "https://raw.githubusercontent.com/LemmyNet/lemmy-ui/main/src/assets/icons/icon-96x96.png",
     "slug": "gioia-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.29%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.21%",
     "uptimeMonth": "95.08%",
-    "uptimeYear": "97.73%",
-    "time": 1506,
+    "uptimeYear": "97.74%",
+    "time": 1507,
     "timeDay": 615,
-    "timeWeek": 6750,
-    "timeMonth": 3752,
-    "timeYear": 1708,
+    "timeWeek": 489,
+    "timeMonth": 2928,
+    "timeYear": 1711,
     "dailyMinutesDown": {
-      "2026-03-22": 16,
       "2026-03-23": 194,
       "2026-03-25": 167,
       "2026-03-26": 110,
@@ -164,7 +163,8 @@
       "2026-09-26": 252,
       "2026-09-29": 150,
       "2026-09-30": 93,
-      "2026-10-01": 80
+      "2026-10-01": 80,
+      "2026-10-07": 0
     }
   },
   {
@@ -180,8 +180,8 @@
     "uptimeYear": "100.00%",
     "time": 311,
     "timeDay": 234,
-    "timeWeek": 233,
-    "timeMonth": 252,
+    "timeWeek": 247,
+    "timeMonth": 255,
     "timeYear": 313,
     "dailyMinutesDown": {}
   }
