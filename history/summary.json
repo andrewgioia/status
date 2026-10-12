@@ -35,7 +35,7 @@
     "timeDay": 316,
     "timeWeek": 371,
     "timeMonth": 412,
-    "timeYear": 446,
+    "timeYear": 445,
     "dailyMinutesDown": {}
   },
   {
@@ -53,7 +53,7 @@
     "timeDay": 320,
     "timeWeek": 383,
     "timeMonth": 395,
-    "timeYear": 483,
+    "timeYear": 481,
     "dailyMinutesDown": {}
   },
   {
@@ -71,7 +71,7 @@
     "timeDay": 966,
     "timeWeek": 709,
     "timeMonth": 572,
-    "timeYear": 686,
+    "timeYear": 685,
     "dailyMinutesDown": {}
   },
   {
@@ -79,17 +79,17 @@
     "url": "https://gioia.news",
     "icon": "https://raw.githubusercontent.com/LemmyNet/lemmy-ui/main/src/assets/icons/icon-96x96.png",
     "slug": "gioia-news",
-    "status": "down",
-    "uptime": "99.11%",
-    "uptimeDay": "88.27%",
-    "uptimeWeek": "83.67%",
-    "uptimeMonth": "93.00%",
-    "uptimeYear": "97.57%",
-    "time": 1769,
-    "timeDay": 39315,
-    "timeWeek": 17884,
-    "timeMonth": 6722,
-    "timeYear": 2046,
+    "status": "up",
+    "uptime": "99.09%",
+    "uptimeDay": "86.37%",
+    "uptimeWeek": "81.73%",
+    "uptimeMonth": "92.55%",
+    "uptimeYear": "97.54%",
+    "time": 1850,
+    "timeDay": 41643,
+    "timeWeek": 20958,
+    "timeMonth": 7894,
+    "timeYear": 2145,
     "dailyMinutesDown": {
       "2026-03-28": 253,
       "2026-03-29": 59,
@@ -164,7 +164,8 @@
       "2026-10-08": 371,
       "2026-10-09": 175,
       "2026-10-10": 527,
-      "2026-10-11": 21
+      "2026-10-11": 189,
+      "2026-10-12": 28
     }
   },
   {
@@ -182,7 +183,7 @@
     "timeDay": 187,
     "timeWeek": 281,
     "timeMonth": 260,
-    "timeYear": 314,
+    "timeYear": 313,
     "dailyMinutesDown": {}
   }
 ]
